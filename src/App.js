@@ -44,7 +44,7 @@ export class App extends Component {
                   })}
                 >
                   
-                <i class="material-icons">location_on  </i> <span>{suggestion.description}</span>
+                <i class="material-icons"> </i> <span>{suggestion.description}</span>
                 </div>
               );
             })}
