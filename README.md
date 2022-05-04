@@ -1,5 +1,9 @@
-# place-autocomplete 
+# Place-autocomplete 
 This is react place autocomplete using react-places-autocomplete ⚡:rocket:
+
+A Simple react App which will suggest you a  location you are searching for.:tada: <br/>
+
+Used Gooogle Api's.
 
 To install all the dependencies use Open npm install
 
